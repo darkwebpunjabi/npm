@@ -1,1 +1,2 @@
-console.log("Hello Test")
+var msg = "hello test"
+console.log(msg)
